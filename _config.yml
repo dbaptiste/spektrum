@@ -2,9 +2,6 @@
 title: spektrum
 timezone: UTC
 collections:
-  ble:
-    title: Ble
-    output: true
   posts:
     title: Posts
     output: true
