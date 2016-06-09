@@ -13,6 +13,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  snip:
+    title: snip
+    output: true
 defaults:
 - scope:
     path: ''
