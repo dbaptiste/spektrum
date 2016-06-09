@@ -8,6 +8,7 @@ collections:
   products:
     title: Products
     output: true
+    Name: 10
   uploads:
     title: Uploads
     output: true
