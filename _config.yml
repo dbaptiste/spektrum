@@ -9,6 +9,7 @@ collections:
     title: Products
     output: true
     Name: 10
+    Price: 20
   uploads:
     title: Uploads
     output: true
