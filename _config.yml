@@ -16,6 +16,7 @@ collections:
   snip:
     title: snip
     output: true
+    price: 200
 defaults:
 - scope:
     path: ''
