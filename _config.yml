@@ -20,7 +20,7 @@ collections:
     title: snip
     output: true
     price:
-      Key: 
+      ee: 
 defaults:
 - scope:
     path: ''
