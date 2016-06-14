@@ -1,7 +1,13 @@
 ---
 title: test product
-date: 2016-06-09 15:51:00 Z
+date: {}
 Name: 10
+published: true
 ---
 
 wrerfdsf
+
+hghjghjg
+
+![Screen Shot 2016-06-14 at 1.16.48 PM.png]({{site.baseurl}}/_products/Screen Shot 2016-06-14 at 1.16.48 PM.png)
+
